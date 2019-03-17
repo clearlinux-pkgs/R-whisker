@@ -1,0 +1,9 @@
+# This file contains recursive sources that require this package
+R-dendextend
+R-fauxpas
+R-phylogram
+R-pkgdown
+R-reprex
+R-seriation
+R-tfruns
+R-usethis
