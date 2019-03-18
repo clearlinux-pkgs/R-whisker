@@ -4,9 +4,9 @@
 #
 Name     : R-whisker
 Version  : 0.3.2
-Release  : 55
-URL      : http://cran.r-project.org/src/contrib/whisker_0.3-2.tar.gz
-Source0  : http://cran.r-project.org/src/contrib/whisker_0.3-2.tar.gz
+Release  : 56
+URL      : https://cran.r-project.org/src/contrib/whisker_0.3-2.tar.gz
+Source0  : https://cran.r-project.org/src/contrib/whisker_0.3-2.tar.gz
 Summary  : {{mustache}} for R, logicless templating
 Group    : Development/Tools
 License  : GPL-3.0
@@ -23,10 +23,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1552919177
+export SOURCE_DATE_EPOCH=1552943639
 
 %install
-export SOURCE_DATE_EPOCH=1552919177
+export SOURCE_DATE_EPOCH=1552943639
 rm -rf %{buildroot}
 export LANG=C
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
