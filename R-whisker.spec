@@ -4,7 +4,7 @@
 #
 Name     : R-whisker
 Version  : 0.3.2
-Release  : 56
+Release  : 57
 URL      : https://cran.r-project.org/src/contrib/whisker_0.3-2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/whisker_0.3-2.tar.gz
 Summary  : {{mustache}} for R, logicless templating
