@@ -4,7 +4,7 @@
 #
 Name     : R-whisker
 Version  : 0.4
-Release  : 71
+Release  : 72
 URL      : https://cran.r-project.org/src/contrib/whisker_0.4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/whisker_0.4.tar.gz
 Summary  : {{mustache}} for R, Logicless Templating
